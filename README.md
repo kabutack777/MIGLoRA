@@ -1,2 +1,1 @@
-# MIGLoRA
-# Efficient Multi-Instance Generation with Janus-dirven Prompt Parsing
+# MIGLoRA Efficient Multi-Instance Generation with Janus-dirven Prompt Parsing
