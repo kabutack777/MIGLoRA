@@ -5,13 +5,5 @@ In accordance with the ICCV double-blind review process and academic publication
 - [ ] Pretrained model weights and configuration files will be released via Hugging Face Model Hub
 - [ ] The full dataset will be made available through Hugging Face Datasets
 
-## **Dataset Samples**  
-Here are some sample images from our dataset:  
-
-### 📂 1024px Samples  
-![Sample Image 1](DescripBox/1024/0.png)  
-
-### 📂 512px Samples  
-![Sample Image 2](DescripBox/512/1000090.png)  
 
 📌 **Follow us for the latest updates and releases!**  
