@@ -1,4 +1,4 @@
-# **MIGLoRA - Efficient Multi-Instance Generation with Janus-Driven Prompt Parsing**  
+# **MIGLoRA - Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**  
 
 🚀 The code for this project will be uploaded soon. Stay tuned for updates! 🎉  
 
